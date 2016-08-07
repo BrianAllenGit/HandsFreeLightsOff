@@ -31,7 +31,7 @@ button{
 
 <div id="main">
 
- <h1>Fagatron</h1>
+ <h1>Lights</h1>
 
  <div class="row">
         <div class="col-xs-12"><button type="button" class="btn btn-success-outline b0">On</button></div>
